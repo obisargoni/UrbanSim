@@ -4,3 +4,19 @@
 python/\.ipynb_checkpoints/Nextworks 1-checkpoint\.ipynb
 /python/.ipynb_checkpoints/Networks 1-checkpoint.ipynb
 /python/.ipynb_checkpoints/Nextworks Python Intro-checkpoint.ipynb
+
+python/\.ipynb_checkpoints/Networks 2-checkpoint\.ipynb
+
+python/data/london_network\.csv
+
+python/data/london_stations\.csv
+
+python/data/underground/underground\.dbf
+
+python/data/underground/underground\.prj
+
+python/data/underground/underground\.qpj
+
+python/data/underground/underground\.shp
+
+python/data/underground/underground\.shx
