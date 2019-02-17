@@ -20,3 +20,11 @@ python/data/underground/underground\.qpj
 python/data/underground/underground\.shp
 
 python/data/underground/underground\.shx
+/data/london_network.csv
+/data/london_stations.csv
+/data/tube_network.csv
+/data/underground/underground.dbf
+/data/underground/underground.prj
+/data/underground/underground.qpj
+/data/underground/underground.shp
+/data/underground/underground.shx
