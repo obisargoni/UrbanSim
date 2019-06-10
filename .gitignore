@@ -100,3 +100,14 @@ python/data/underground/underground\.shx
 /data/Central_London_Shapefile/shape/waterways.prj
 /data/Central_London_Shapefile/shape/waterways.shp
 /data/Central_London_Shapefile/shape/waterways.shx
+/._.DS_Store
+/python/._.DS_Store
+/python/data/._london_network.csv
+/python/data/._london_stations.csv
+/python/data/._underground
+/python/data/underground/._underground.dbf
+/python/data/underground/._underground.prj
+/python/data/underground/._underground.qpj
+/python/data/underground/._underground.shp
+/python/data/underground/._underground.shx
+/r/._IntroR.R
